@@ -1,2 +1,2 @@
 #!/bin/bash
-the ls -l displays current directory contents in a long format
+the ls -la displays current directory contents, including hidden files(starting with .) in a long format
