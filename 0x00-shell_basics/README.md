@@ -1,2 +1,2 @@
 #!/bin/bash
-the pwd command prints the absolute path name of the current working directory
+the ls displays the content list of your current directory
