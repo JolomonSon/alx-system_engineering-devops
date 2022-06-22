@@ -1,2 +1,2 @@
 #!/bin/bash
-the mkdir creates a directory in any specified location by default current directory
+the rm -rf removes/deletes the specified folder or directory
