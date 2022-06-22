@@ -1,2 +1,2 @@
 #!/bin/bash
-the ls -la displays current directory contents in long format, with user and group IDs displayed numerically and hidden files (starting with .)
+the mkdir creates a directory in any specified location by default current directory
