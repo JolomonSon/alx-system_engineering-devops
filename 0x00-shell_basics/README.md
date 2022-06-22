@@ -1,2 +1,2 @@
 #!/bin/bash
-the cd changes the working directory to the user's home directory
+the ls -l displays current directory contents in a long format
