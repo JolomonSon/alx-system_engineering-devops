@@ -1,2 +1,2 @@
 #!/bin/bash
-the rm -rf removes/deletes the specified folder or directory
+the cd- changes the working directory to the previous one
