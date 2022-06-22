@@ -1,2 +1,2 @@
 #!/bin/bash
-the cd- changes the working directory to the previous one
+the ls -la .. lists all files in a specific order
