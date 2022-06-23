@@ -1,2 +1,2 @@
 #!/bin/bash
-The chmod -rw {filename} command adds execute permission to the owner of the specified filename
+The chmod 554 {filename} command adds execute permission to the owner and group owner and read permissions to other users
