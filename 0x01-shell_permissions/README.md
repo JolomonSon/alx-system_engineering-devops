@@ -1,2 +1,2 @@
 #!/bin/bash
-The chown {user} {file} command changes the owner of the file to the specified users
+The touch {file} command creates an empty file with the specified name
