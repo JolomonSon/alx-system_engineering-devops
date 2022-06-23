@@ -1,2 +1,2 @@
 #!/bin/bash
-The whoami command displays the username of the current user
+The groups {username} lists all the groups the current user is part of
