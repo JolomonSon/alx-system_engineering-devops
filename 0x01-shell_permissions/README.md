@@ -1,2 +1,2 @@
 #!/bin/bash
-The groups command lists all the groups the current user is part of
+The chown {user} {file} command changes the owner of the file to the specified users
