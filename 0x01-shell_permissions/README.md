@@ -1,2 +1,2 @@
 #!/bin/bash
-The chmod u+rwx {filename} command
+The chmod group filename/directory mand
