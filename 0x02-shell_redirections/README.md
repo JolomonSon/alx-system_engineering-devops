@@ -1,2 +1,2 @@
 #!/bin/bash
-The grep -v bin /etc/passwd command display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+The grep ^[[:alpha:]] /etc/ssh/sshd_config command display all lines of the file /etc/ssh/sshd_config starting with a letter.
