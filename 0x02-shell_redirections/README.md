@@ -1,2 +1,2 @@
 #!/bin/bash
-The echo command prints any character or symbol that comes after it
+The echo -e "{unicode}" command contains a sequence of unicode representing different emojis
