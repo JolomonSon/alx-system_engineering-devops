@@ -1,2 +1,2 @@
 #!/bin/bash
-The tail -n 11 {file} command displays the last 11 files in the specified file
+The head -n 10 {file} command displays the first files in the specified file
