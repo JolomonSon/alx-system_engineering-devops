@@ -1,2 +1,2 @@
 #!/bin/bash
-The echo -e "{unicode}" command contains a sequence of unicode representing different emojis
+The cat /etc/passwd command displays the content of the /etc/passwd file
