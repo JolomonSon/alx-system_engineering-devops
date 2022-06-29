@@ -1,2 +1,2 @@
 #!/bin/bash
-The cat /etc/passwd command displays the content of the /etc/passwd file
+The cat /etc/passwd /etc/hosts command displays the content of the /etc/passwd and /etc/hosts file
