@@ -1,2 +1,2 @@
 #!/bin/bash
-The find . -type f -name '*.js' -delete deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+The find . -mindepth 1 -type d | wc -l command counts the number of directories and sub-directories in the current directory.
