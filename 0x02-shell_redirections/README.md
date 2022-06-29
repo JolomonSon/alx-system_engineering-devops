@@ -1,2 +1,2 @@
 #!/bin/bash
-The cat /etc/passwd /etc/hosts command displays the content of the /etc/passwd and /etc/hosts file
+The tail -n 11 {file} command displays the last 11 files in the specified file
