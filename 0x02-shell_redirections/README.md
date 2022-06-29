@@ -1,2 +1,2 @@
 #!/bin/bash
-The grep ^[[:alpha:]] /etc/ssh/sshd_config command display all lines of the file /etc/ssh/sshd_config starting with a letter.
+The tr Ac Ze command replace all characters A and c from input to Z and e respectively.
