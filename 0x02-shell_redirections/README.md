@@ -1,2 +1,2 @@
 #!/bin/bash
-The ls -la > {file} command Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it
+The tail --lines=1 {file} >> {file} command duplicates the last line of the previous file in the new file specified
