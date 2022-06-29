@@ -1,2 +1,2 @@
 #!/bin/bash
-The tr Ac Ze command replace all characters A and c from input to Z and e respectively.
+The tr -d Cc command removes all letters c and C from input
