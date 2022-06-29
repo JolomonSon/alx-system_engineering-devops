@@ -1,2 +1,2 @@
 #!/bin/bash
-The find . -mindepth 1 -type d | wc -l command counts the number of directories and sub-directories in the current directory.
+The ls -t | head command displays the 10 newest files in the current directory
