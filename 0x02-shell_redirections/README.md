@@ -1,2 +1,2 @@
 #!/bin/bash
-The head -n 10 {file} command displays the first files in the specified file
+The head -3 {file} | tail -1 command displays the third line in the specified file
