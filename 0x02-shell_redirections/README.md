@@ -1,2 +1,2 @@
 #!/bin/bash
-The tail --lines=1 {file} >> {file} command duplicates the last line of the previous file in the new file specified
+The find . -type f -name '*.js' -delete deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
